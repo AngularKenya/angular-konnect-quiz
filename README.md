@@ -1,4 +1,6 @@
-# Angular Konnekt Quiz
+---
+title: Angular Konnket Quick Fire
+---
 
 ## Quiz Structure
 - **Format**: Mix of one-answer questions and bug-fixing challenges  
